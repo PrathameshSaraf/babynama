@@ -1,7 +1,14 @@
 
 ## Approach
 
-In this assignment, I used the Flutter framework along with the Stacked architecture to implement the required features. The following packages were used:
+In this assignment, I employed the Stacked architecture, which includes the use of the following folders:
+
+- `lib/view`: Contains the UI components (screens, widgets).
+- `lib/viewmodel`: Holds the business logic and interacts with the UI.
+- `lib/services`: Manages external services, API calls, etc.
+- `lib/models`: Includes data models used throughout the application.
+
+The following packages were used:
 
 - `flutter_lints: ^2.0.0`
 - `build_runner`
