@@ -31,7 +31,7 @@ Follow these steps to run the app locally:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/your-repo.git](https://github.com/PrathameshSaraf/babynama)
+    https://github.com/PrathameshSaraf/babynama
    ```
 2.Install dependencies:
   ```bash
